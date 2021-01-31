@@ -1,3 +1,5 @@
 master -> commit 1
 test -> commit 1
 dev -> commit 1
+feature -> commit 1
+feature -> commit 2
